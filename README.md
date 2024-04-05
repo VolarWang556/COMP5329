@@ -1,2 +1,3 @@
 # COMP5329
-ahhahaha
+## Assignment 1
+### Main file: deep learning.py
